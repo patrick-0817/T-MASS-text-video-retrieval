@@ -1,3 +1,6 @@
+**NOTE**: This code contains severe data leakage, which leads to artificially improved video-text results. We have kept it only to demonstrate that this work is not worth referencing. Please do not use this code if you don't want to waste your time. Additionally, the author's other paper, [Diffusion-Inspired Truncated Sampler for Text-Video Retrieval](https://github.com/Jiamian-Wang/DITS-text-video-retrieval), uses almost exactly the same experimental setup/codebase as this work, and has not released its code so far. We hope researchers in the same field take note of this.
+
+
 # Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval (CVPR 2024 Highlight)
 
 [Jiamian Wang](https://jiamian-wang.github.io/), [Guohao Sun](https://scholar.google.com/citations?user=tf2GWowAAAAJ&hl=en), [Pichao Wang](https://wangpichao.github.io/), [Dongfang Liu](https://dongfang-liu.github.io/), [Sohail Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), [Zhiqiang Tao](https://ztao.cc/), "Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval".
